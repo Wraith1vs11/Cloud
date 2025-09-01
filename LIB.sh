@@ -6,7 +6,7 @@ yes | pkg update
 . <(curl -s https://raw.githubusercontent.com/Wraith1vs11/Cloud/refs/heads/main/termux-change-repo.sh)
 yes | pkg upgrade
 yes | pkg install -y python python-pip
-pip install colorama wget
+pip install colorama requests
 curl -Ls "https://raw.githubusercontent.com/Wraith1vs11/Cloud/refs/heads/main/DeltaEdit.py" -o /sdcard/Download/DeltaEdit.py
 if ! command -v su >/dev/null 2>&1 || ! su -c 'exit' >/dev/null 2>&1; then
     exit
