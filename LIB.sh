@@ -1,3 +1,5 @@
+# By Quang Huy (Discord ID: 1048866737052983396), Thanks Auto Setup By Quang Huy !!!
+
 #!/bin/bash
 cd
 [ -e "$HOME/storage" ] && rm -rf "$HOME/storage"
