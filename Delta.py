@@ -10,7 +10,7 @@ __DOC__ = {
     "vi": "Obfuscator này được làm ra để bảo vệ code của mọi người tránh bị đánh cắp, crack. Vì vậy sẽ có nhiều thành phần xấu sử dụng obfuscator này để obfuscate những file botnet, keylog, v.v. Vì vậy hãy cẩn thận khi run file này!"
 }
 
-# https://api.nguyenxuantrinh.id.vn - https://t.me/CalceIsMe - https://www.facebook.com/tisa.premium
+# https://discord.gg/FcEGmkNDDe
 
 class __Nexus__:
     def __init__(TrinhNguyen, *뉥밲쯇쓄젼댩쁡름쀊늱둧, **젎쁻뭏퇱멓귏뛲왁똮첟윒):TrinhNguyen._뉥밲쯇쓄젼댩쁡름쀊늱둧 = 뉥밲쯇쓄젼댩쁡름쀊늱둧;TrinhNguyen._젎쁻뭏퇱멓귏뛲왁똮첟윒 = 젎쁻뭏퇱멓귏뛲왁똮첟윒;global Nexus; Nexus = TrinhNguyen._뉥밲쯇쓄젼댩쁡름쀊늱둧[(lambda 믫싌웆툊줋킹혥솁쥨짵껤: 믫싌웆툊줋킹혥솁쥨짵껤 ^ 102)(102)] if TrinhNguyen._뉥밲쯇쓄젼댩쁡름쀊늱둧 else None 
